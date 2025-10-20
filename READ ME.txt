@@ -1,0 +1,27 @@
+FULL GUIDE
+
+Upload your photos inside the folder
+1.Rename it : photo1,photo2 - to how many photo you want 
+
+SET YOUR GIRLFRIEND'S BIRTHDATE HERE (format: YYYY-MM-DD)
+1. Go to index.html
+2. Ctrl F
+3. copy this const CORRECT_BIRTHDATE = '2002-10-15'; // Change this to her actual birthdate
+4. change this to your girlfriend birthday - '2002-10-15'
+
+SET THE DATE SHE SAID YES AND BECAME YOUR GIRLFRIEND (format: YYYY-MM-DD)
+1. Go to index.html
+2. Ctrl F
+3. copy this const GIRLFRIEND_START_DATE = '2024-12-14'; // Change this to the day she said YES!
+4. change this to your girlfriend start_date - '2024-12-14';
+
+Put your MP3 file in the same folder as this HTML file
+Then change 'romantic-song.mp3' to your actual file name
+1. Go to index.html
+2. Ctrl F
+3. copy this audio = new Audio('romantic-song.mp3');
+4. change this to your prefer music: ('romantic-song.mp3') include also to the folder
+
+URL: http://localhost/birthday-website/index.html
+
+
